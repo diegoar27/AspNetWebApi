@@ -1,0 +1,17 @@
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.Test.deps.json
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.Test.runtimeconfig.json
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.Test.runtimeconfig.dev.json
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.Test.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.Test.pdb
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.csprojAssemblyReference.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.csproj.CoreCompileInputs.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.AssemblyInfoInputs.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.AssemblyInfo.cs
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.pdb
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\bin\Debug\netcoreapp2.1\InsuranceCompany.API.pdb
+C:\TestLivy\InsuranceCompany\InsuranceCompany.Test\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Test.csproj.CopyComplete

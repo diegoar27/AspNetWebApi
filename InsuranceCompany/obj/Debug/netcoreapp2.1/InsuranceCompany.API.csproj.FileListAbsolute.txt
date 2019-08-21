@@ -1,0 +1,16 @@
+C:\TestLivy\InsuranceCompany\InsuranceCompany\bin\Debug\netcoreapp2.1\InsuranceCompany.API.deps.json
+C:\TestLivy\InsuranceCompany\InsuranceCompany\bin\Debug\netcoreapp2.1\InsuranceCompany.API.runtimeconfig.json
+C:\TestLivy\InsuranceCompany\InsuranceCompany\bin\Debug\netcoreapp2.1\InsuranceCompany.API.runtimeconfig.dev.json
+C:\TestLivy\InsuranceCompany\InsuranceCompany\bin\Debug\netcoreapp2.1\InsuranceCompany.API.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany\bin\Debug\netcoreapp2.1\InsuranceCompany.API.pdb
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.csprojAssemblyReference.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.csproj.CoreCompileInputs.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.RazorAssemblyInfo.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.RazorAssemblyInfo.cs
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.AssemblyInfoInputs.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.AssemblyInfo.cs
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.RazorTargetAssemblyInfo.cache
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.dll
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.pdb
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.Messages.resources
+C:\TestLivy\InsuranceCompany\InsuranceCompany\obj\Debug\netcoreapp2.1\InsuranceCompany.API.csproj.GenerateResource.cache
